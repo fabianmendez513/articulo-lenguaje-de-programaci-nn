@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 10x;
+    font-family: monospace;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    width: 100px;
+    height: 100dvb;
+    max-width: 30ren;
+    background-color: black ;
+    padding: 1ren;
+    
+
+}
+.index {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100rem;
+}

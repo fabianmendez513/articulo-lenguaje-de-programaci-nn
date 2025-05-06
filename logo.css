@@ -1,0 +1,15 @@
+.logo {
+    display: flex;
+    gap: 1ren;
+
+}
+.logo img {
+    width: 4ren;
+    border-radius: 0.5ren;
+    border: 1px solid black;
+}
+
+.logo span{
+    color: black;
+    font-size: 1.8rem;
+}
